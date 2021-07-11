@@ -29,8 +29,8 @@ Given an image and some basic criteria, a block card with a unique style, colors
 <img src="./images/cards_movil.png">
 ### Links
 
-- Solution URL: [Add solution URL here] (https://your-solution-url.com)
-- Live Site URL: [Add Live Site URL Here] (https://your-live-site-url.com)
+- Solution URL: [Add solution URL here] (https://mimolmon.github.io/Frontend_Mentor/)
+- Live Site URL: [Add Live Site URL Here] (https://mimolmon.github.io/Frontend_Mentor/)
 
 ## My process
 
